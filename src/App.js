@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import ToDoForm from './ToDoForm';
-import ToDo from './ToDo';
+import ToDoForm from './components/ToDoForm';
+import ToDo from './components/ToDo';
 import { nanoid } from 'nanoid';
 
 function App() {
